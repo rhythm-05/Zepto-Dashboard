@@ -4,7 +4,7 @@ This Power BI dashboard visualizes and analyzes sales performance data for Zepto
 ## 📷 Dashboard Preview
 
 ![Image](https://github.com/user-attachments/assets/9c9491c0-b94d-4690-ada8-02e23dabfb2b)
-https://github.com/user-attachments/assets/5a6a06a9-ab31-49b5-9fbc-ff660457a3b9
+[https://github.com/user-attachments/assets/5a6a06a9-ab31-49b5-9fbc-ff660457a3b9](https://github.com/user-attachments/assets/1d738c37-c646-49de-8588-401989e14913)
 ## 🔍 Key Features
 
 - 💰 Total & Average Sales Metrics
