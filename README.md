@@ -2,7 +2,9 @@
 
 This Power BI dashboard visualizes and analyzes sales performance data for Zepto, a fast delivery service. The dashboard provides insights into total sales, average ratings, item categories, outlet types, and regional performance across years.
 ## 📷 Dashboard Preview
+https://github.com/user-attachments/assets/5a6a06a9-ab31-49b5-9fbc-ff660457a3b9
 
+![Image](https://github.com/user-attachments/assets/9c9491c0-b94d-4690-ada8-02e23dabfb2b)
 ## 🔍 Key Features
 
 - 💰 Total & Average Sales Metrics
